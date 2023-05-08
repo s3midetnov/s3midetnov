@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @s3midetnov (Artem Semidetnov)
 
--I'm a mathematics-CS researcher located in Saint-Petersburg, Russia. 
-
--I'm currently learning Functional analysis and Machine Learning
+-Right now I'm interested in mathematics, functional programming (learning Haskell, OCaml) and machine learning.
 
 -You can text me to artemsemidetnov@gmail.com
